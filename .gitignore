@@ -1,0 +1,13 @@
+/nbproject
+/vendor/
+/.vagrant/
+.settings/
+.buildpath
+.project
+/puphpet/
+Vagrantfile
+Vagrantfile.*
+/.idea/
+.DS_Store
+composer.lock
+composer.phar
